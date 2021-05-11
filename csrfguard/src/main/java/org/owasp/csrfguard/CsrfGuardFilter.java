@@ -43,7 +43,7 @@ import java.io.IOException;
 import java.util.Collections;
 import java.util.Objects;
 
-public final class CsrfGuardFilter implements Filter {
+public class CsrfGuardFilter implements Filter {
 
     private FilterConfig filterConfig = null;
 
